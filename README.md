@@ -18,4 +18,8 @@ commands:
 
 !gone // to delete the song file on the target machine
 
+https://github.com/Rapptz/discord.py
+
+https://github.com/ytdl-org/youtube-dl
+
 
